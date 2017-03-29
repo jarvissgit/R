@@ -222,3 +222,5 @@ qplot(x = friend_count, y = ..count../sum(..count..),
   ggplot(aes(x = www_likes), data = subset(pf, !is.na(gender))) + 
   geom_freqpoly(aes(color = gender)) + 
   scale_x_log10()
+
+#FINISHED LESSON 3 WITHOUT ANY FURTHER NOTES
